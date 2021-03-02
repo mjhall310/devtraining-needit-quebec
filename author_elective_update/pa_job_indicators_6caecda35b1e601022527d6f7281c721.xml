@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="DELETE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>service_offering.perf_score historic - NeedIt: Active Weekly</display>
+        <indicator display_value="NeedIt: Active Weekly">04d52b3c5b1a201022527d6f7281c7f9</indicator>
+        <job display_value="service_offering.perf_score historic">1d65abd35b96201022527d6f7281c744</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-19 02:24:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6caecda35b1e601022527d6f7281c721</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Active Weekly.service_offering.perf_score historic</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_job_indicators_6caecda35b1e601022527d6f7281c721</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-19 02:24:20</sys_updated_on>
+    </pa_job_indicators>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>14874b3c78212010f3aec8a52c704391</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>pa_job_indicators_6caecda35b1e601022527d6f7281c721</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators"><pa_job_indicators action="INSERT_OR_UPDATE"><active>true</active><collect>1</collect><collect_indicator>true</collect_indicator><display>service_offering.perf_score historic - NeedIt: Active Weekly</display><indicator display_value="NeedIt: Active Weekly">04d52b3c5b1a201022527d6f7281c7f9</indicator><job display_value="service_offering.perf_score historic">1d65abd35b96201022527d6f7281c744</job><sys_class_name>pa_job_indicators</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-19 02:24:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6caecda35b1e601022527d6f7281c721</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt: Active Weekly.service_offering.perf_score historic</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_job_indicators_6caecda35b1e601022527d6f7281c721</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-19 02:24:20</sys_updated_on></pa_job_indicators></record_update>]]></payload>
+        <payload_hash>1550479323</payload_hash>
+        <record_name>service_offering.perf_score historic - NeedIt: Active Weekly</record_name>
+        <reverted_from/>
+        <source>33fdcb305b1a201022527d6f7281c7d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-19 02:24:20</sys_created_on>
+        <sys_id>20aecda35b1e601022527d6f7281c728</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177b81a30c80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-19 02:24:20</sys_updated_on>
+        <type>Job Indicator</type>
+        <update_guid>68aecda3c01e6010aeee97a6f25e5527</update_guid>
+        <update_guid_history>68aecda3c01e6010aeee97a6f25e5527:1550479323</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="service_offering.perf_score historic - NeedIt: Active Weekly">75870e7f5b52201022527d6f7281c773</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-20 01:11:22</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicators">pa_job_indicators</sys_db_object>
+        <sys_id>03ea8ccd1365483080fc9e7756430ad1</sys_id>
+        <sys_metadata>6caecda35b1e601022527d6f7281c721</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Active Weekly.service_offering.perf_score historic</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="service_offering.perf_score historic">1d65abd35b96201022527d6f7281c744</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_job_indicators_6caecda35b1e601022527d6f7281c721</sys_update_name>
+        <sys_update_version display_value="pa_job_indicators_6caecda35b1e601022527d6f7281c721">20aecda35b1e601022527d6f7281c728</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-20 01:11:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

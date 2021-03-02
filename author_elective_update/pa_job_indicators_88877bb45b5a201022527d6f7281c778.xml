@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="DELETE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>cmdb_ci_service.service_status historic - service_offering.csat_score</display>
+        <indicator display_value="service_offering.csat_score">1610af785b1a201022527d6f7281c76b</indicator>
+        <job display_value="cmdb_ci_service.service_status historic">8751fbb05b5a201022527d6f7281c732</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 01:38:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>88877bb45b5a201022527d6f7281c778</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>service_offering.csat_score.cmdb_ci_service.service_status historic</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_job_indicators_88877bb45b5a201022527d6f7281c778</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 01:38:49</sys_updated_on>
+    </pa_job_indicators>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>14874b3c78212010f3aec8a52c704391</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>pa_job_indicators_88877bb45b5a201022527d6f7281c778</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators"><pa_job_indicators action="INSERT_OR_UPDATE"><active>true</active><collect>1</collect><collect_indicator>true</collect_indicator><display>cmdb_ci_service.service_status historic - service_offering.csat_score</display><indicator display_value="service_offering.csat_score">1610af785b1a201022527d6f7281c76b</indicator><job display_value="cmdb_ci_service.service_status historic">8751fbb05b5a201022527d6f7281c732</job><sys_class_name>pa_job_indicators</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-11 01:38:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>88877bb45b5a201022527d6f7281c778</sys_id><sys_mod_count>0</sys_mod_count><sys_name>service_offering.csat_score.cmdb_ci_service.service_status historic</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_job_indicators_88877bb45b5a201022527d6f7281c778</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-11 01:38:49</sys_updated_on></pa_job_indicators></record_update>]]></payload>
+        <payload_hash>1762243029</payload_hash>
+        <record_name>cmdb_ci_service.service_status historic - service_offering.csat_score</record_name>
+        <reverted_from/>
+        <source>33fdcb305b1a201022527d6f7281c7d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 01:38:49</sys_created_on>
+        <sys_id>04877bb45b5a201022527d6f7281c77e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1778ebda79a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 01:38:49</sys_updated_on>
+        <type>Job Indicator</type>
+        <update_guid>4c877bb4d65a20100030cfb2babebb7d</update_guid>
+        <update_guid_history>4c877bb4d65a20100030cfb2babebb7d:1762243029</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="cmdb_ci_service.service_status historic - NeedIt: service_offering.csat_score">06678a3f5b52201022527d6f7281c7b7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-20 01:10:50</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicators">pa_job_indicators</sys_db_object>
+        <sys_id>89fd19d5b02a4eb885f34904a6dd2890</sys_id>
+        <sys_metadata>88877bb45b5a201022527d6f7281c778</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>service_offering.csat_score.cmdb_ci_service.service_status historic</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="cmdb_ci_service.service_status historic">8751fbb05b5a201022527d6f7281c732</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_job_indicators_88877bb45b5a201022527d6f7281c778</sys_update_name>
+        <sys_update_version display_value="pa_job_indicators_88877bb45b5a201022527d6f7281c778">04877bb45b5a201022527d6f7281c77e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-20 01:10:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
